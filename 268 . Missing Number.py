@@ -8,3 +8,4 @@ class Solution(object):
         for i in range(n+1):
             if i not in nums:
                 return i    
+#####
