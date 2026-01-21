@@ -9,3 +9,4 @@ class Solution(object):
             if i not in nums:
                 return i    
 #####
+###
