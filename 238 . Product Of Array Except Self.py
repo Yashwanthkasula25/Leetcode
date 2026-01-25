@@ -17,7 +17,7 @@ class Solution(object):
         for i in range(n):
             result[i] = sufex[i] * prefex[i]
         return result    
-
+#####
 s = Solution()
 print(s.productExceptSelf([1,3,5,7]))
 
